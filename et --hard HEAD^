@@ -1,0 +1,172 @@
+[33mcommit f8e5ad6a41d0cf12abf75559b08b624a5b7bd420[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: ba646df 719af3c
+Author: Jose <josecbaptista2001@gmail.com>
+Date:   Wed Apr 12 16:44:47 2023 +0100
+
+    Merge remote-tracking branch 'origin/main'
+    
+    # Conflicts:
+    #       app/src/main/AndroidManifest.xml
+    #       app/src/main/java/com/example/myapplication/WifiError.java
+    #       app/src/main/res/layout/activity_change_password.xml
+
+[33mcommit ba646dffeacc0775eee3b9b5c1d2ba6007592490[m
+Author: Jose <josecbaptista2001@gmail.com>
+Date:   Tue Apr 4 00:18:39 2023 +0100
+
+    Replaced app
+
+[33mcommit d7a1a0cee42771691bfc1790f8d9593f0e22111e[m
+Author: Jose <josecbaptista2001@gmail.com>
+Date:   Wed Mar 22 16:46:18 2023 +0000
+
+    added activities
+
+[33mcommit 6ef83824f4f528584cf3f660652a6ad97a58cbb1[m
+Author: unknown <up201905170@g.uporto.pt>
+Date:   Sat Mar 18 18:03:17 2023 +0100
+
+    first commit
+
+[33mcommit 930f1e8396c9b878cc9a868d5e13764fb9d3db5c[m
+Author: diogo-tavares <up201706336@fe.up.pt>
+Date:   Sat Mar 18 14:51:55 2023 +0000
+
+    teste
+
+[33mcommit 140899fb0b50f664e7d822bb73aeb665f5cd0b7d[m
+Author: Jose <josecbaptista2001@gmail.com>
+Date:   Sat Mar 18 14:46:30 2023 +0000
+
+    HELLO WORLD
+
+[33mcommit 4189d9e85602b5a982dad48987258c98495a2908[m
+Author: Jose <josecbaptista2001@gmail.com>
+Date:   Sat Mar 18 14:34:28 2023 +0000
+
+    OLA
+
+[33mcommit a25f84f2775b5790976197b43446f59934dd7883[m
+Author: diogo-tavares <up201706336@fe.up.pt>
+Date:   Sat Mar 18 14:49:42 2023 +0000
+
+    teste
+
+[33mcommit 5725b2ca3b571ce19778f77dcf5b220b846249a2[m
+Author: diogo-tavares <up201706336@fe.up.pt>
+Date:   Sat Mar 18 14:47:56 2023 +0000
+
+    ola
+
+[33mcommit 719af3cab70a30051feddaae40dc69608d55af52[m
+Author: unknown <up201905170@g.uporto.pt>
+Date:   Tue Apr 11 10:50:36 2023 +0100
+
+    NewDeviceName Layout
+
+[33mcommit 4e8e4e062629c8543d86d2eb9602610ce9c7f64d[m
+Merge: 2a4b6a5 dffacf4
+Author: unknown <up201905170@g.uporto.pt>
+Date:   Sun Apr 9 20:18:22 2023 +0100
+
+    merge
+
+[33mcommit 2a4b6a593a41c004e792da197b0e0f4039bc3200[m
+Author: unknown <up201905170@g.uporto.pt>
+Date:   Sun Apr 9 19:55:27 2023 +0100
+
+    update
+
+[33mcommit dffacf47c1486e495dc3d67f34b0162970ca4ca6[m
+Author: diogo-tavares <up201706336@fe.up.pt>
+Date:   Sun Apr 9 00:15:41 2023 +0100
+
+    adding new device and new schedule pages
+
+[33mcommit 55bc40539d32deef05359e1df1338deffb137aa2[m
+Author: unknown <up201905170@g.uporto.pt>
+Date:   Fri Apr 7 11:31:50 2023 +0100
+
+    wifi connection layout
+
+[33mcommit aa2ad1145e5e0e6028a31897f3fb18328a603a93[m
+Author: Jose <josecbaptista2001@gmail.com>
+Date:   Tue Apr 4 00:18:39 2023 +0100
+
+    Replaced app
+
+[33mcommit 3bfdada05d0d271751e899405ec686d94df8605c[m
+Author: Jose <josecbaptista2001@gmail.com>
+Date:   Wed Mar 22 16:46:18 2023 +0000
+
+    added activities
+
+[33mcommit 8e1113e6434cc969143f87df78d7b655b5a6986c[m[33m ([m[1;31morigin/duarte[m[33m)[m
+Author: unknown <up201905170@g.uporto.pt>
+Date:   Sat Mar 18 18:03:17 2023 +0100
+
+    first commit
+
+[33mcommit 07b4202ea714b55cf3c452bffdaaa15c4110a427[m
+Author: diogo-tavares <up201706336@fe.up.pt>
+Date:   Sat Mar 18 14:51:55 2023 +0000
+
+    teste
+
+[33mcommit 586fc93bc2cb5b90bfed73751163d9d953784e2f[m
+Merge: 4b98f33 59c08e8
+Author: diogo-tavares <up201706336@fe.up.pt>
+Date:   Sat Mar 18 14:50:14 2023 +0000
+
+    Merge remote-tracking branch 'origin/main'
+    
+    # Conflicts:
+    #       app/src/main/java/com/smartswitchapp/MainActivity.java
+
+[33mcommit 4b98f33abcc313d742827fa7aa7195ed088a45b2[m
+Author: diogo-tavares <up201706336@fe.up.pt>
+Date:   Sat Mar 18 14:49:42 2023 +0000
+
+    teste
+
+[33mcommit b2a078cab994f831e93a109d78465394bb063b5b[m
+Author: diogo-tavares <up201706336@fe.up.pt>
+Date:   Sat Mar 18 14:47:56 2023 +0000
+
+    teste
+
+[33mcommit 59c08e8c456a42f65cf859486f9b646b4b83e243[m
+Author: Jose <josecbaptista2001@gmail.com>
+Date:   Sat Mar 18 14:46:30 2023 +0000
+
+    HELLO WORLD
+
+[33mcommit 316edfea627f2b6638616db2fbc3bf8181cda7c4[m[33m ([m[1;31morigin/ze[m[33m, [m[1;32mze[m[33m)[m
+Author: Jose <josecbaptista2001@gmail.com>
+Date:   Sat Mar 18 14:41:10 2023 +0000
+
+    OLAZE
+
+[33mcommit 483ae09fb5efa964ee395740b565b6619bc18447[m
+Author: Jose <josecbaptista2001@gmail.com>
+Date:   Sat Mar 18 14:40:35 2023 +0000
+
+    OLA
+
+[33mcommit 24df933eb7f2f2c048aa407e6eb10b29423e91f2[m
+Author: Jose <josecbaptista2001@gmail.com>
+Date:   Sat Mar 18 14:34:28 2023 +0000
+
+    OLA
+
+[33mcommit 1abfdd6d0e20c873feb3791e6e124cfe7a86155d[m
+Author: duartebranco01 <duartebranco01@gmail.com>
+Date:   Wed Mar 8 17:26:57 2023 +0000
+
+    1st commit
+
+[33mcommit 27d2901c0bab9088407078238257c9f583b4734b[m
+Author: Duarte Branco <up201905327@fe.up.pt>
+Date:   Thu Feb 16 19:01:28 2023 +0000
+
+    Initial commit
